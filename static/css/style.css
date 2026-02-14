@@ -1,0 +1,30 @@
+body {
+    background: #0f0f0f;
+    color: #00ff88;
+    font-family: monospace;
+    text-align: center;
+}
+
+header {
+    background: #111;
+    padding: 20px;
+    border-bottom: 1px solid #00ff88;
+}
+
+nav a {
+    color: #00ff88;
+    margin: 10px;
+    text-decoration: none;
+}
+
+input, button {
+    padding: 10px;
+    background: black;
+    color: #00ff88;
+    border: 1px solid #00ff88;
+}
+
+button:hover {
+    background: #00ff88;
+    color: black;
+  }
